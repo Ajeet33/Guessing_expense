@@ -25,7 +25,7 @@ def main():
     
     elif choice == '2':
       view_expenses()
-      print()
+      # print()
     
     elif choice == '3':
       filter_by = input('Filter by (date/category:')
@@ -38,7 +38,7 @@ def main():
       amount = input('Enter amount: ')
       category = input('Enter category: ')
       description = input('Enter description: ')
-      add_expenses(date,amount,category,description)
+      delete_expence(date, amount,category,description)
       print()
     elif choice == '5':
       monthly_summary()

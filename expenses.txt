@@ -1,1 +1,11 @@
-Date,Amount,Category,Description
+1997-12-29,122121,obc,pata nahi
+76g,jhg,jh,h
+12-12-1990,500,recharge,phone
+12-4-2020,6000,rent,room rent
+22-3-2025,1200,emi,car emi
+22-3-2025,1200,emi,car emi
+2024-09-08,5000,Recharge,Phone Recharge
+2025-07-19,20000,Buy,laptop buy
+2025-08-12,450,recharge,udemy
+2025-02-21,5000,buy,clothes
+2026-01-02,2350,recharge,mother phone recharge
